@@ -1,0 +1,7 @@
+Pseudo Code:
+
+Read x
+set sum=0
+WHILE(x>=0)
+	set sum=sum+x
+	Read x

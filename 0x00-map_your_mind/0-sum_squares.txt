@@ -1,0 +1,9 @@
+Pseudo Code:
+
+Set ctr=0, sum=0
+FOR(ctr<given input)
+	Read Num
+	sqr=(Num*Num)
+	sum=sum+sqr
+	ctr=ctr+1
+Print sum
